@@ -28,4 +28,4 @@ vNotes is a simple CRUD (Create, Read, Update, Delete) application built with PH
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/vnotes.git
+   git clone https://github.com/varxhil/CRUD.git
